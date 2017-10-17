@@ -1,7 +1,9 @@
 {
   "name": "unofficial-square",
   "version": "1.0.0",
-  "private": true,
+  "scripts": {
+    "test": "echo true"
+  },
   "dependencies": {
     "alexa-sdk": "^1.0.10",
     "moment": "^2.19.1"
